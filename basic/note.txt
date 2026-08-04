@@ -1,0 +1,34 @@
+computer : binary  languages : 01010101 ====> Dishant
+
+===============================================================
+Data  analysis : 
+ 
+1. excel    : 
+2. power BI : 
+3. python   : code     
+4. stats    :  
+5. web scrapping  
+================================================================
+
+python  : object oriented languages  
+develop by : guido van Rossum 
+ABC languages : python   
+interpreter languages  ----> easliy understand  
+
+use : 
+
+1. Data  cleaning 
+2. hacking 
+3. GUI : graphical user interface 
+4. AI -ML 
+
+	.txt   ===> extention  , xlsx , .png/jpg
+	.py    ====> python  file extention 
+
+
+VS code  , jpyter ,annconda ,google colab  
+
+
+
+  
+
