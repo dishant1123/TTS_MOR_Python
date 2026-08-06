@@ -23,7 +23,7 @@ print("live in  delhi.")
 print("varun    \t                     dhavan")
 """
 # princy verma
-'''print("princy",end="\n\n")
+'''print("princy",end=" ")
 print("varma")
 '''
 
