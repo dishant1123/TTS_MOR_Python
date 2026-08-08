@@ -107,7 +107,22 @@ output : 1090
 ask user to enter the purchase value (int type) and  add GST at 18 % . asnwer will store in float type.
 
 input  a =50000 
-output : 59000.00 your total amt of purchase 
+output : 59000.00 your total amt of purchase   gst = pur *0.18 
 
 """
 
+a=int(input("enter value of  a :"))
+b=int(input("enter value of  b :"))
+
+print(a,end=" ")
+print(b)
+
+# HW tasks 
+"""
+1.ask user to enter the two number and  print the  sum , subtraction , multiplication , division , modulas operator , floor division. 
+
+2.hey, vishu !!!!! 'how are you' ????  ----> using print statement print same to same  your output  will be same  : hey, vishu !!!!! 'how are you' ????
+
+3. it's holiday and  now i'm going to  "sleep".  ----> using print statement print same to same  your output  will be same  : it's holiday and  now i'm going to  "sleep".
+
+"""
