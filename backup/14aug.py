@@ -41,3 +41,14 @@ print(type(a))
 print("a value  convert into float :",float(a))
 print("a value  convert into str :",str(a))
 """
+# task  :
+"""
+1. ask user to enter the two  number and print the sum ,sub,mul,div. 
+2. ask  user  to enter the two  int type  number and  concate them. 
+    input a =10 
+    input b=20 
+    output = 1020
+    
+3. asl user to enter the two float  number convert in to  int type. 
+"""
+
