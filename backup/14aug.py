@@ -49,6 +49,6 @@ print("a value  convert into str :",str(a))
     input b=20 
     output = 1020
     
-3. asl user to enter the two float  number convert in to  int type. 
+3. ask user to enter the two float  number convert in to  int type. 
 """
 
