@@ -123,4 +123,16 @@ each digit multiple = 1*2*3 =6
 
 sum ==mul   ----> twin number
 """
+n=int(input("enter the  number : "))  #123
+sum =0 
+mul =1 
+
+while n >0 :  # 0 > 0 
+    r= n %10    #   r = 1 %10 =1 
+    sum =sum +r   # sum = 6 
+    mul = mul *r  # mul =6
+    n = n//10   # n =1 //10 =0
+    
+if sum ==mul :   # 6 == 6
+    print("it is  twin number")
 
