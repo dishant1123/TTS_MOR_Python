@@ -103,7 +103,7 @@ marks =80
 name =bhavesh
 marks =89    -----> for loop  
 
-output : d1={"piyush" :40 ,"smit" :80 ,"bhavesh" :89}
+output : d1={"piyush" :40 ,"smit" :30 ,"bhavesh" :89}
 """
 
 
