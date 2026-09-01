@@ -15,8 +15,8 @@ print(len(s1))
 print(min(s1))
 print(max(s1))
 print(sorted(s1))
-"""
 
+"""
 # slicing : 
 
 """s1="my name is tisha nagrani."
@@ -32,6 +32,7 @@ print(s1[  :  :3])
 print(s1[  :  :-2])
 print(s1[  :  :-1])
 """
+
 
 # task :1  using  slicing  only
 """
@@ -49,7 +50,11 @@ output a: fulor
 output b: coll
 
 """
-a="bhavesh"
-b="patel"
+s1=input("enter the  string  1: ")   # color 
+s2=input("enter the  string  2: ")   # full 
+ 
 
-print(a+"."+b)
+result = s2[0 :3] + s1[3: ]
+result2 = s1[0 :3]+ s2[3:]
+print("output a:",result)
+print("output b:",result2)

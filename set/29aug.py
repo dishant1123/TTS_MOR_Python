@@ -28,7 +28,7 @@ print(sorted(s1,reverse=True))
 
 # method : 
 
-# s1={23,45,67,89,23,45,12,90}
+s1={23,45,67,89,23,45,12,90}
 
 # s1.add(900)
 # print(s1)
