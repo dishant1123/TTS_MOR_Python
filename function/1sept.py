@@ -73,3 +73,4 @@ def is_prime(n):
     
 print(is_prime(3))
 
+# HW : amg , reverse , pelidrome ,twin ,perfect  using  function  . 
