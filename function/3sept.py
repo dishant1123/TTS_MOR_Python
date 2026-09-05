@@ -52,7 +52,8 @@ CALCULATOR
 
 """
 
-"""def add(a,b):
+"""
+def add(a,b):
     print("sum  of  two  numbers  is  ",a+b)
 
 def sub(a,b):
