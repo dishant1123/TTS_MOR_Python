@@ -151,9 +151,22 @@ for i in enumerate(l1) :
 """
 
 # ex : 4 zip 
-
+"""
 l1=["apple","banana","cherry","kiwi"]
 country =["jammu","kerala","delhi","mumbai"]
 
 for i in zip(l1,country) :
     print(i)
+"""
+
+# tasks :
+"""
+1. ask user to enter the string and  seperate  the  vowel  and  consonant in two different file that is  vowel.txt  and  consonant.txt
+
+input :  my name is varun. 
+
+vowel.txt : aeiau 
+consonant.txt : my nm s vrn.
+
+"""
+
