@@ -170,3 +170,62 @@ consonant.txt : my nm s vrn.
 
 """
 
+"""import numpy as np
+import matplotlib.pyplot as plt
+times = [18,22,25,27,28,29,30,31,32,35,38,42,90]
+# Delivery times in minutes — 90 is outlier
+
+Q1 = np.percentile(times, 25) 
+Q3 = np.percentile(times, 75) 
+
+IQR = Q3 - Q1
+upper = Q3 + 1.5 * IQR 
+print(f'Q1={Q1}, Q3={Q3}, IQR={IQR}, Upper bound={upper:.1f}')
+
+plt.boxplot(times, vert=False) 
+plt.title('Delivery Times'); 
+plt.show()
+
+"""
+
+import numpy as np 
+
+arr = np.array([
+    [1,2,3],
+    [4,5,6],
+    [7,8,9]
+])
+arr2= np.array([1,2,3,4,5,6,8])
+print(arr)
+print(arr2)
+print(arr.shape)
+print(arr.size)
+print(arr.ndim)
+print(arr.dtype)
+
+"""
+A          B
+1 2 3     11 12 13  
+4 5 6     14 15 16 
+7 8 9     17 18 19 
+
+matrix  multiplication  :
+
+
+"""
+"""a=np.array([
+    [1,2],
+    [3,4]
+])
+b=np.array([
+    [5,6],
+    [7,8]
+])
+
+result =np.matmul(a,b)
+print(result)
+
+"""
+
+
+
